@@ -1,0 +1,21 @@
+instrument,condition,perceptual_loss,trial_id,mean_rating_score
+drum,reference,0.0,drum_test,92.70588235294117
+drum,office,0.0006425591436709,drum_test,79.11764705882354
+drum,opera hall,0.0004382785391499,drum_test,45.23529411764706
+drum,reverbed,0.0005229220278124,drum_test,46.705882352941174
+flute,reference,0.0,flute_test,79.0
+flute,office,0.0001107358912122,flute_test,81.17647058823529
+flute,opera hall,0.0029748016459052,flute_test,69.47058823529412
+flute,reverbed,0.0049761070840759,flute_test,65.82352941176471
+guitar,reference,0.0,guitar_test,85.17647058823529
+guitar,office,8.196969929485931e-05,guitar_test,79.3529411764706
+guitar,opera hall,0.0077126533142291,guitar_test,60.705882352941174
+guitar,reverbed,0.003668538556667,guitar_test,70.23529411764706
+piano,reference,0.0,piano_test,84.3529411764706
+piano,office,0.0001012185180115,piano_test,88.58823529411765
+piano,opera hall,0.0002943045728898,piano_test,86.47058823529412
+piano,reverbed,0.0005167878953216,piano_test,82.82352941176471
+trumpet,reference,0.0,trumpet_test,74.29411764705883
+trumpet,office,0.0002412937419649,trumpet_test,69.52941176470588
+trumpet,opera hall,0.0026660149160306,trumpet_test,59.11764705882353
+trumpet,reverbed,0.0045924072765046,trumpet_test,54.11764705882353

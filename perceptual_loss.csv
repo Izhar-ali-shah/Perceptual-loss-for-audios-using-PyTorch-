@@ -1,0 +1,21 @@
+instrument,condition,perceptual_loss
+drum,reference,0.0
+drum,office,0.000642559143670951
+drum,opera hall,0.00043827853914990555
+drum,reverbed,0.0005229220278124558
+flute,reference,0.0
+flute,office,0.00011073589121224359
+flute,opera hall,0.002974801645905245
+flute,reverbed,0.00497610708407592
+guitar,reference,0.0
+guitar,office,8.196969929485931e-05
+guitar,opera hall,0.007712653314229101
+guitar,reverbed,0.0036685385566670448
+piano,reference,0.0
+piano,office,0.0001012185180115921
+piano,opera hall,0.00029430457288981415
+piano,reverbed,0.0005167878953216132
+trumpet,reference,0.0
+trumpet,office,0.00024129374196490971
+trumpet,opera hall,0.00266601491603069
+trumpet,reverbed,0.004592407276504673
